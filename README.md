@@ -69,4 +69,4 @@ pip install pandas numpy seaborn matplotlib scikit-learn tensorflow optuna
 ```
 
 
-3. **Execution**: Open the `Regression Salary.ipynb` notebook file inside your Jupyter ecosystem and execute the cells sequentially. This allows you to track data parsing, view the hyperparameter optimization steps, and inspect the final regression error rates and performance metrics.
+3. **Execution**: Open the `Salary Prediction Regression with Deep Learning.ipynb` notebook file inside your Jupyter ecosystem and execute the cells sequentially. This allows you to track data parsing, view the hyperparameter optimization steps, and inspect the final regression error rates and performance metrics.
